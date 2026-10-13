@@ -1,0 +1,6 @@
+{
+  "name": "ExcelAI Pro",
+  "description": "Assistant intelligent pour générer des formules Excel, expliquer les calculs en français simple, corriger les erreurs (#REF!, #N/A, #VALEUR!) et apprendre avec des exemples interactifs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
