@@ -4,7 +4,7 @@ import path from 'path';
 import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
-    base: '/ExcelAi-Prp/',
+    base: '/ExcelAI-Pro/',
   return {
     plugins: [react(), tailwindcss()],
     resolve: {
